@@ -1,0 +1,11 @@
+0 Bannerfish
+1 Clownfish
+2 Dolphin
+3 Green Sea Turtle
+4 Dugong
+5 Hawksbill Sea Turtle
+6 Lionfish
+7 Napoleon(Humphead wrasse)
+8 Picasso Triggerfish
+9 Sea Goldie
+10 Whale Shark
