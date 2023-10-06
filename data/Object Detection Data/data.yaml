@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 15
+names: ['Bannerfish', 'Clownfish', 'Dolphin', 'Dugong -Endangered-', 'Green-Sea-Turtle -Endangered-', 'Hawksbill-Sea-Turtle -Endangered-', 'Lionfish -Endangered- -Poisonous-', 'Napoleon -Endangered-', 'Picasso Triggerfish', 'Scolymia-Vitiensis -Poisonous-', 'Sea Goldie', 'Shark -Predatory-', 'Staghorn-Coral -Endangered-', 'Torpedo -Electrical-', 'Whale Shark -Endangered-']
+
+roboflow:
+  workspace: nasa-space-apps
+  project: fishes-o0t0y
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nasa-space-apps/fishes-o0t0y/dataset/6
